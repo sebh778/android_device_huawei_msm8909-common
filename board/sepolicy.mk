@@ -1,2 +1,2 @@
 BOARD_SEPOLICY_DIRS += \
-    $(PLATFORM_PATH)/sepolicy
+    device/huawei/msm8909-common/sepolicy
