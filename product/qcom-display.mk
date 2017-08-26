@@ -15,4 +15,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
     debug.enable.sglscale=1
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.opengles.version=196608
+    ro.opengles.version=196610
