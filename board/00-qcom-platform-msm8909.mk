@@ -1,5 +1,6 @@
 # Platform
 TARGET_BOARD_PLATFORM := msm8909
+TARGET_BOARD_PLATFORM_GPU := qcom-adreno304
 
 # Architecture
 TARGET_ARCH := arm
