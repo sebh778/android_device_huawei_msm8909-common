@@ -3,6 +3,7 @@ TARGET_BOARD_PLATFORM := msm8909
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno304
 
 # Architecture
+TARGET_BOARD_SUFFIX := _32
 TARGET_ARCH := arm
 TARGET_ARCH_VARIANT := armv7-a-neon
 TARGET_CPU_ABI := armeabi-v7a
